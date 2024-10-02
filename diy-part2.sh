@@ -10,6 +10,9 @@
 # See /LICENSE for more information.
 #
 
+# Add a soft source code
+git clone https://github.com/sirpdboy/luci-app-wizard package/luci-app-wizard
+
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.3.205/g' package/base-files/files/bin/config_generate
 
