@@ -2,6 +2,29 @@
 自行编译升腾GI945 N70(32位)CPU的自定义固件。
 使用immortalwrt的源码。
 
+插件：
+luci-app-acl
+luci-app-adbyby-plus
+luci-app-advancedplus
+luci-app-autotimeset
+luci-app-diskman
+luci-app-fileassistant
+luci-app-hd-idle
+luci-app-natmap
+luci-app-netdata
+luci-app-netspeedtest
+luci-app-netwizard
+luci-app-openclash
+luci-app-samba4
+luci-app-ttyd
+luci-app-wol
+
+luci-theme-argon
+luci-theme-kucat
+
+nano-full
+
+
 以下是源项目的说明
 
 ---
